@@ -1,2 +1,7 @@
-# intro_to_ds
-Introductory project for Data Science class.
+Science & Analytics Program with UNLV
+
+## SQL
+## Statistics
+## Visual Communications
+
+To demo add.
